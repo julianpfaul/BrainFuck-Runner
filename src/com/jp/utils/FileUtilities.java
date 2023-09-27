@@ -1,3 +1,5 @@
+package com.jp.utils;
+
 import java.io.*;
 
 public class FileUtilities {
